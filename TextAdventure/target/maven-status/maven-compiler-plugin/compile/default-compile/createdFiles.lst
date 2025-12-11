@@ -1,0 +1,5 @@
+src/main/java/edu/grinnell/csc207/textadventure/LivingRoom.class
+src/main/java/edu/grinnell/csc207/textadventure/Room.class
+src/main/java/edu/grinnell/csc207/textadventure/Parser.class
+src/main/java/edu/grinnell/csc207/textadventure/Command.class
+src/main/java/edu/grinnell/csc207/textadventure/Inventory.class
