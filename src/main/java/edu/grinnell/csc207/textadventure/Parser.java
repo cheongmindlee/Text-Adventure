@@ -37,8 +37,8 @@ public class Parser {
   public boolean isValidAction() {
     action = action.toLowerCase();
     // Make sure the action is a valid command
-    if (action.equals("move") || action.equals("talk") || action.equals("pick") ||
-        action.equals("use") || action.equals("attack") || action.equals("survey") ||
+    if (action.equals("move") || action.equals("pick") ||
+        action.equals("use") || action.equals("survey") ||
         action.equals("wait") || action.equals("check") || action.equals("quit")) {
       return true;
     } else {
